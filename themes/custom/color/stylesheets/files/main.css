@@ -1,0 +1,15 @@
+/* line 1, ../../sass/files/main.scss */
+body {
+  background-color: blue;
+}
+
+/* line 5, ../../sass/files/main.scss */
+.layout-content {
+  background-color: red;
+}
+
+/* line 8, ../../sass/files/main.scss */
+h1 {
+  color: red;
+  background-color: blue;
+}

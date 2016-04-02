@@ -1,0 +1,4 @@
+cuddly-slider:
+  css:
+    theme:
+      css/screen.css: {}
